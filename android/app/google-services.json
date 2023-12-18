@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770026212056",
+    "project_id": "matchlist-ecfa6",
+    "storage_bucket": "matchlist-ecfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770026212056:android:918b2023bb48b74695e5ad",
+        "android_client_info": {
+          "package_name": "com.example.footballmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqerzfUX04OC7ilmC_HT51p5VmEs15xQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
